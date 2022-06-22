@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Caleb Kiangebeni A.K.A @mrfinker
-- 👀 I’m interested in Web Developpement and Pyhton language
+- 👀 I’m interested in Web Developpement front-end and back-end
 - 🌱 I’m currently learning Web Developpement
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
