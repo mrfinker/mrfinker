@@ -10,4 +10,4 @@ mrfinker/mrfinker is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-www.wakatime.com/@mrfinker
+<figure><embed src="https://wakatime.com/share/@d9ae6ed8-2886-421f-850e-896cb1bb7085/78c2c0c5-4036-4b18-98a8-80352bb83d5d.svg"></embed></figure>
