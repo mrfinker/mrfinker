@@ -1,15 +1,8 @@
-- 👋 Hi, I’m Caleb Kiangebeni A.K.A @mrfinker
-- 👀 I’m interested in Web Developpement front-end and back-end
-- 🌱 I’m currently learning Web Developpement
-- 📫 How to reach me ...
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=mrfinker&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&count_private=true)
-
 <!---
 mrfinker/mrfinker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Salut 👋, Je suis Kiangebeni Caleb</h1>
+<h1 align="center">Salut 👋, Je suis Kiangebeni Caleb A.K.A @mrfinker</h1>
 <h3 align="center">Un développeur frontend passionné de la RDC</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=mrfinker&label=Profile%20views&color=0e75b6&style=flat" alt="mrfinker" /> </p>
@@ -18,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/mr_finker" target="blank"><img src="https://img.shields.io/twitter /follow/mr_finker?logo=twitter&style=for-the-badge" alt="mr_finker" /></a> </p>
 
-- 💬 Demandez-moi **HTML5, CSS3, Js**
-
+- 💬 👀 I’m interested in Web Developpement front-end **HTML5, CSS3, Js**
+- 🌱 I’m currently learning Web Developpement
 - 📫 Comment me joindre **caalebs@gmail.com **
 
 <h3 align="left">Contactez-moi :</h3>
