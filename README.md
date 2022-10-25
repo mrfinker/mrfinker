@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning Web Developpement
 - 📫 Comment me joindre **caalebs@gmail.com **
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef49340a-8c99-4b02-878e-78af63b0685d/deploy-status)](https://app.netlify.com/sites/calebkiangebeni/deploys)
+
 <p align="center">
   <a align="center" href="https://github.com/mrfinker/github-readme-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfinker&" alt="mrfinker" />
