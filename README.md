@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a align="center" href="[https://github.com/mrfinker/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrfinker))">
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mrfinker](https://github-readme-stats.vercel.app/api/wakatime?username=mrfinker)" />
   </a>
 </p>
 
