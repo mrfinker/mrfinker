@@ -3,10 +3,9 @@ mrfinker/mrfinker is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Salut 👋, Je suis Kiangebeni Caleb A.K.A @mrfinker</h1>
-<h3 align="center">Un développeur frontend passionné de la RDC</h3>
+<h3 align="center">Un développeur Web</h3>
 
-- 💬 👀 I’m interested in Web Developpement front-end **HTML5, CSS3, Js**
-- 🌱 I’m currently learning Web Developpement
+- 💬 👀 I’m interested in Web Developpement
 - 📫 Comment me joindre **caalebs@gmail.com **
 
 <p align="center">
@@ -21,20 +20,13 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<p align="center">
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrfinker)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
 <h3 align="left">Mes trophés :</h3>
 <p align="center"> 
   <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrfinker" alt="mrfinker" /></a > 
-</p>
-
-<h3 align="left">Mes outils en ligne :</h3>
-<p align="center">
-  <a align="center" href="https://codepen.io/mrfinker" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mrfinker" height="30" width="40" />
-  </a>
-
-  <a align="center" href="https://codesandbox.com/mrfinker" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/codesandbox.svg" alt="mrfinker" height="30" width="40" />
-  </a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
@@ -47,9 +39,6 @@ You can click the Preview link to take a look at your changes.
   </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-    <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/"target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largeur ="40" height="40"/> 
@@ -65,9 +54,6 @@ You can click the Preview link to take a look at your changes.
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/ xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height= "40"/> 
   </a> 
 </p> </a> </p> </a> </p>
 
