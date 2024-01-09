@@ -21,7 +21,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrfinker)](https://github.com/anuraghazra/github-readme-stats)
+  <a align="center" href="[https://github.com/mrfinker/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrfinker))">
+  </a>
 </p>
 
 <h3 align="left">Mes trophés :</h3>
