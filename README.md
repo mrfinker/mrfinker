@@ -1,3 +1,13 @@
+<!---
+mrfinker/mrfinker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<h1 align="center">Salut 👋, Je suis Kiangebeni Caleb A.K.A @mrfinker</h1>
+<h3 align="center">Un développeur Web</h3>
+
+- 💬 👀 I’m interested in Web Developpement
+- 📫 Comment me joindre **caalebs@gmail.com **
+
 <p align="center">
   <a align="center" href="https://github.com/mrfinker/github-readme-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfinker&" alt="mrfinker" />
