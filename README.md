@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrfinker.mrfinker" />
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from DRC 🇨🇩🇨🇦</h3>
 
 <br/>
 
