@@ -16,6 +16,8 @@
 
  </div>
 
+ <div align="center"> 
+
 <p align="center">
   <a align="center" href="https://github.com/mrfinker/github-readme-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfinker&" alt="mrfinker" />
