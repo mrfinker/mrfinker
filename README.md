@@ -31,6 +31,16 @@
 
  <hr/>
 
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
 <p align="center">
   <a align="center" href="https://github.com/mrfinker/github-readme-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrfinker&" alt="mrfinker" />
