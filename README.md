@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 💬 👀 I’m interested in Web Developpement
 - 📫 Comment me joindre **caalebs@gmail.com **
 
-<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=mrfinker.visitor-badge&left_text=My%20Page%20Visitors"/>
+<img align='right' src="https://visitor-badge.laobi.icu/badge?page_id=mrfinker.mrfinker&left_text=My%20Page%20Visitors"/>
 
 <p align="center">
   <a align="center" href="https://github.com/mrfinker/github-readme-stats">
