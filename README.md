@@ -1,14 +1,20 @@
-<!---
-mrfinker/mrfinker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">Salut 👋, Je suis Kiangebeni Caleb A.K.A @mrfinker</h1>
-<h3 align="center">Un développeur Web</h3>
-
-- 💬 👀 I’m interested in Web Developpement
-- 📫 Comment me joindre **caalebs@gmail.com **
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrfinker.mrfinker" />
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
 
 <p align="center">
   <a align="center" href="https://github.com/mrfinker/github-readme-stats">
