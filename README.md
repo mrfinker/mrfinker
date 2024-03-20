@@ -44,7 +44,7 @@
 
 <p align="center">
   <a align="center" href="https://github.com/mrfinker/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfinker" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfinker&hide=scss" />
   </a>
 </p>
 
